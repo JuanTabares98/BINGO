@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "AppBingoGS2upb",
   "resources": {
-    "hash": "sha256-3P4nhIbV9uGiZnVMS3zEdUqZ97XfSt5KSqC5VUcBZAw=",
+    "hash": "sha256-TebURzbyvW/J2Zg/FZHikowPnnqXccIj5U9wALf0XV4=",
     "jsModuleNative": {
       "dotnet.native.8.0.5.rde2hxwziz.js": "sha256-boyHe+0RMZDkzBKGhsrnXPhPg3oZ6UqJnTUzngJPjNY="
     },
@@ -17,7 +17,7 @@
       "icudt_no_CJK.dat": "sha256-L7sV7NEYP37/Qr2FPCePo5cJqRgTXRwGHuwF5Q+0Nfs="
     },
     "assembly": {
-      "AppBingoGS2upb.wasm": "sha256-0lZA9lfUuxVmYKfYx/TTL8wzl32rgiox83jwi2YUjOk=",
+      "AppBingoGS2upb.wasm": "sha256-vjOPymhJWwKsYgrPUJBnBLUyn9SkzmE7QT1RS4xnBCA=",
       "Microsoft.AspNetCore.Components.Forms.wasm": "sha256-N065LDa4SAdwyJ0G55wn78UmsxCEIX4ICYDvRoWmvtI=",
       "Microsoft.AspNetCore.Components.wasm": "sha256-CzRccORQE1AVAW2+K8sZVDRbmKPES6ObNxmB9hXh42c=",
       "Microsoft.AspNetCore.Components.Web.wasm": "sha256-xJHHjTtC10JcUNk5MraWN+SAOcAO2ITBdMIGDyybdRI=",
